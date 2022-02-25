@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# G![GENESIS MINT](https://user-images.githubusercontent.com/100062048/155754177-bb6a8e92-2fcf-4c9a-807a-1ec94503ec98.png)
+etting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
